@@ -1,0 +1,97 @@
+WorkCatID,WorkCatName,Annotation
+0,Building finishes > Doors > Doors,Build_Doors
+1,Building finishes > Doors > Doors (fire proof),Build_Door_FireProof
+2,Building finishes > External walls > Cladding,Build_Ext_Cladding
+3,Building finishes > External walls > Rendering,Buidl_Ext_Rendering
+4,Building finishes > Flooring > Flooring (cement screeds),Build_Floor_CementScreeds
+5,Building finishes > Flooring > Flooring (general),Build_Flooring
+6,"Building finishes > Flooring > Flooring (rubber, plastic, cork, lino and carpet)",Build_Floor_Carpet
+7,Building finishes > Flooring > Flooring (tiles),Build_Floor_Tiles
+8,"Building finishes > Furniture (supply & fit kitchen, bathroom, bedroom etc)",Build_Furniture_Fitting
+9,Building finishes > Joinery,Build_Joinery
+10,Building finishes > Office fit out,Build_Fitout
+11,Building finishes > Painting and decorating (general),Build_Decorating
+12,Building finishes > Glazing > Glazing,Build_Glazing
+13,Building finishes > Glazing > Windows (pvcu),Build_PVCU
+14,Building finishes > Internal walls / ceilings > Ceilings (suspended),Build_Ceiling
+15,Building finishes > Internal walls / ceilings > Partitions,Build_Partition
+16,Building finishes > Internal walls / ceilings > Plastering,Plastering
+17,Building finishes > Internal walls / ceilings > Tiling (wall),Build_Tiling
+18,Building finishes > Painting & decoration > Painting,Build_Painting
+19,Building finishes > Roofing > Roofing,Build_Roofing
+20,Building finishes > Roofing > Roofing (felt),Build_Roofing_Felt
+21,Building finishes > Roofing > Roofing (slating / tiling),Build_Roofing_Slating
+22,Building general > Building type > Brick and blockwork,Building_Type_Blockwork
+23,Building general > Building type > Concrete (in situ),Building_Type_Concrete
+24,Building general > Building type > Demolition,Building_Type_Demolition
+25,Building general > Building type > Scaffolding,Building_Type_Scaffolding
+26,Building general > Building type > Site clearance,Building_Type_Clearance
+27,Building general > Building type > Structural steelwork,Building_Type_Steelwork
+28,Building general > Building (design & construct),Buiding_construct
+29,Building general > Building general,Building
+30,Building general > Building refurbishment over 15k,Building_Refurbishment
+31,Building general > Building repairs and improvements (max notation £15k),Building_Improvements
+32,Electrical > Electrical installation and maintenance/services,Electrical_Services
+33,Building general > Management contracting (general contracting work),Building_Contracting
+34,Building general > Sector > Building (hospitals),Building_Sector_Hospital
+35,Building general > Sector > Building (industrial),Building_Sector_Industrial
+36,Building general > Sector > Building (offices),Building_Sector_Offices
+37,Building general > Sector > Building (private housing),Building_Sector_Private
+38,Building general > Sector > Building (schools and colleges),Building_Sector_Schools
+39,Building general > Sector > Building (social housing),Building_Sector_Social
+40,Building general > Sector > Building (sports & leisure),Building_Sector_Leisure
+41,Building general > Sector > Working in occupied premises,Building_Sector_Occupied
+42,Civil engineering > Drainage / pipework > Drain inspection (cctv),Civil_Drain_Inspection
+43,Civil engineering > Drainage / pipework > Drainage (land),Civil_Drainage
+44,Civil engineering > Drainage / pipework > Drains and sewers (new),Civil_Sewer
+45,Civil engineering > Drainage / pipework > Drains and sewers (renovation),Civil_Renovation
+46,Civil engineering > Drainage / pipework > Underground buried services,Civil_Underground
+47,Civil engineering > Civil engineering,Civil
+48,Civil engineering > Concrete repairs,Civil_Repairs
+49,Civil engineering > Earthworks (bulk),Civil_Earthwork
+50,Civil engineering > Landscaping / sports > Fencing,Civil_Fencing
+51,Civil engineering > Landscaping / sports > Ground maintenance,Civil_GroundMaintenance
+52,Civil engineering > Landscaping / sports > Landscaping,Civil_Landscapping
+53,Civil engineering > Roads & bridges > Asphalt surfacing,Civil_Road_Asphalt
+54,"Civil engineering > Roads & bridges > Road (kerbing grano, blocks, slabs, bricks etc)",Civil_Road_Kerbing
+55,Civil engineering > Roads & bridges > Road construction,Civil_Road_Construction
+56,Civil engineering > Roads & bridges > Road maintenance (minor works),Civil_Road_Maintenance
+57,Civil engineering > Roads & bridges > Block paving,Civil_Road_Paving
+58,Electrical > Comms > Closed circuit tv systems,Electrical_Comms
+59,Electrical > Comms > Data cabling communications systems,Electrical_Cabling
+60,Electrical > External lighting > Floodlighting,Electrical_Floodlighting
+61,Electrical > Fire alarms > Fire alarm systems,Electrical_FireAlarm
+62,Electrical > Electrical installation & maintenance / services,Electrical_Installation_Maintenance
+63,Electrical > Electrical installations (design & construct),Electrical_Installation_construct
+64,Electrical > Electrical services,Electrical_Services
+65,Electrical > External electrical installations,Electrical_External_Install
+66,Electrical > Internal electrical installations,Electrical_Internal_Install
+67,Electrical > Power supply > Emergency lighting & power,Electrical_Power_Lighting
+68,Electrical > Security > Intruder alarms,Electrical_Security_Intruder
+69,Electrical > Testing > Portable appliance testing,Electrical_Testing_Appliance
+70,Electrical > Testing > Testing of electrical installations,Electrical_Testing_Install
+71,Electrical > Testing > Testing of electrical installations term contracts,Electrical_Testing_Contracts
+72,Mechanical > Boilers > Boilers up to 50kw domestic and light industrial,Electrical_Boiler_Domestic
+73,Mechanical > Building service equipment > Building services installation,Mechanical_Equipment_Services
+74,Mechanical > Mechanical services maintenance,Mechanical_maintenance
+75,Mechanical > Heating and ventilation > Air conditioning,Mechanical_HeatingVent_AC
+76,Mechanical > Heating and ventilation > Boilers over 50kw,Mechanical_HeatingVent_Boiler
+77,Mechanical > Heating and ventilation > Gas installations,Mechanical_HeatingVent_GasInstall
+78,Mechanical > Heating and ventilation > Heating (central - gas) installation,Mechanical_HeatingVent_CentInstallation
+79,Mechanical > Heating and ventilation > Heating (central - gas) maintenance,Mechanical_HeatingVent_CentMaintenance
+80,Mechanical > Heating and ventilation > Mechanical services installation,Mechanical_HeatingVent_ServiceInstallation
+81,Mechanical > Heating and ventilation > Ventilation,Mechanical_HeatingVent_Ventilation
+82,Mechanical > Lifts / access > Access control systems,Mechanical_Access_ControlSys
+83,Mechanical > Pipework > Pipework,Mechanical_Pipework
+84,Mechanical > Potable water and waste treatment > Plumbing,Mechanical_WaterTreatment_Plumbing
+85,Other services > Building services > Building services maintenance (m & e),BuildingService_Maintenance_M-E
+86,Other services > General maintenance > Building maintenance service (building fabric),BuildingService_Maintenance_Fabric
+87,Building general > Building type > Masonry and bricklaying work,Building_Type_Masonry
+88,Electrical > Site temporary electrical installation,Electical_TempInstallation
+89,Electrical > Fire alarms > Fire alarms (servicing and maintenance),Electrical_FireAlarm_Maintenance
+90,Architecture > Architectural & design services,Architectural_Design
+91,Electrical > Power supply > Emergency lighting (servicing and maintenance),Electrical_Power_Lighting-Maintenance
+92,Building general > Sector > Listed building work,Build_Sector_Listed
+93,Other services > Security > Cctv installation (no electrics),Security_CCTV_Installation
+94,Mechanical > Boilers > Gas-fired condensing boilers,Mechanical_Boilers_Condensing
+95,Electrical > Lighting systems,Electrical_LightingSystems
